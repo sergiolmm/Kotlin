@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tela1</string>
+    <string name="btnText">Mudar</string>
 </resources>
