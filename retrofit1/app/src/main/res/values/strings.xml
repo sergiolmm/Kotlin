@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">retrofit1</string>
+    <string name="question_num">Question number : %1$d</string>
+    <string name="ques_title">Title : %1$s</string>
+    <string name="ques_link">Link : %1$s</string>
+
 </resources>
